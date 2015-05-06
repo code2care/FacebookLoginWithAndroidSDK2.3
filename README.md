@@ -8,3 +8,6 @@ Facebook SDK version 2.3
 
 
 Note : Just Add your APP ID in string.xml
+
+
+Released under MIT Licience 
